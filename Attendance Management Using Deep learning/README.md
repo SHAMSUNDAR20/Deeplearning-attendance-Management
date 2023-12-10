@@ -1,5 +1,5 @@
 
-# Face based attendance system using python and openCV
+# Deep Learning Attendance Management
 
 
 
